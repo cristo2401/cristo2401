@@ -1,4 +1,4 @@
-# Hola, soy Cristóbal Césped 👋
+# Hola, soy Cristóbal Césped
 
 Estudiante de último año de **Ingeniería Civil Informática en la Universidad Técnica Federico Santa María (USM)**, con egreso estimado para el primer semestre de 2027.
 
