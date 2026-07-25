@@ -4,6 +4,8 @@ Estudiante de último año de **Ingeniería Civil Informática en la Universidad
 
 A través de proyectos académicos y personales estoy explorando problemas donde convergen la **modelación matemática, el machine learning y la computación de alto rendimiento**. Estoy construyendo experiencia en series temporales financieras, simulación numérica y software acelerado con CUDA, con especial atención a la reproducibilidad, la eficiencia y la validación rigurosa.
 
+También participo en la **Selección de Programación Competitiva USM Valparaíso**, donde desarrollo algoritmos, estructuras de datos y resolución de problemas bajo restricciones.
+
 ## Proyectos seleccionados
 
 - **[Forex Research Pipeline](https://github.com/cristo2401/forex-research-pipeline)** — Pipeline experimental multi-divisa con particiones temporales estrictas, representación de regímenes, offline reinforcement learning, CTDE, evaluación bajo costos, controles de riesgo y paper trading. El repositorio publica tanto avances como resultados que no superan los guardrails.
