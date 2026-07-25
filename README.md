@@ -2,7 +2,7 @@
 
 Estudiante de último año de **Ingeniería Civil Informática en la Universidad Técnica Federico Santa María (USM)**, con egreso estimado para el primer semestre de 2027.
 
-Me interesa diseñar y evaluar sistemas donde convergen la **modelación matemática, el machine learning y la computación de alto rendimiento**. Actualmente trabajo con series temporales financieras, simulación numérica y software acelerado con CUDA, con especial atención a la reproducibilidad, la eficiencia y la validación rigurosa.
+A través de proyectos académicos y personales estoy explorando problemas donde convergen la **modelación matemática, el machine learning y la computación de alto rendimiento**. Estoy construyendo experiencia en series temporales financieras, simulación numérica y software acelerado con CUDA, con especial atención a la reproducibilidad, la eficiencia y la validación rigurosa.
 
 ## Proyectos seleccionados
 
@@ -14,9 +14,9 @@ Me interesa diseñar y evaluar sistemas donde convergen la **modelación matemá
 
 - **[Explainable AI for Exoplanet Classification](https://github.com/cristo2401/xai-exoplanet-lightcurve-classification)** — Pipeline reproducible de deep learning para clasificar curvas de luz de Kepler y TESS, con auditoría de datos, incertidumbre, calibración y métodos XAI como Integrated Gradients, Grad-CAM y Occlusion Sensitivity.
 
-## En qué estoy profundizando
+## Áreas que estoy explorando
 
-- Quantitative research y machine learning para series temporales
+- Métodos cuantitativos y machine learning para series temporales
 - Optimización, simulación y diseño experimental
 - C++/CUDA y computación de alto rendimiento
 - Interpretabilidad, incertidumbre y evaluación robusta de modelos
