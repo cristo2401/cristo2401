@@ -35,5 +35,6 @@ También participo en la **Selección de Programación Competitiva USM Valparaí
 
 - **Correo:** [cristobal.cespedg@usm.cl](mailto:cristobal.cespedg@usm.cl)
 - **GitHub:** [@cristo2401](https://github.com/cristo2401)
+- **LinkedIn:** [linkedin.com/in/cristobal-cesped](https://www.linkedin.com/in/cristobal-cesped)
 
 Abierto a conversar sobre investigación aplicada, machine learning, simulación y software científico.
