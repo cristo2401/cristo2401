@@ -8,14 +8,12 @@ Busco **práctica profesional Quant o Developer desde diciembre de 2026**, prese
 
 ## Proyectos seleccionados
 
-| Proyecto | Qué construí y qué puedes revisar | Estado |
+| Proyecto | Trabajo y evidencia | Estado |
 |---|---|---|
 | [forex-cuda](https://github.com/cristo2401/forex_cuda) | Entorno de simulación de portafolios FX en Python, C++ y CUDA. Código del kernel, pruebas matemáticas y benchmarks con metodología y límites. | Prototipo de investigación con pruebas y mediciones publicadas. |
-| [Forex Research Pipeline](https://github.com/cristo2401/forex-research-pipeline) | Experimentos con datos FX: preparación de series, representaciones, RL y evaluación con costos. Incluye resultados negativos y una demo de datos sintéticos. | En desarrollo; la integración completa sigue pendiente de validación y los guardrails recientes fallan. |
-| [LBM / Aerodinámica 2D](https://github.com/cristo2401/LBM_CUDA_Aerodynamics_HPC) | Simulador numérico D2Q9 en C++17 y kernels CUDA. Casos CPU ejecutables y comparación de layouts de memoria. | Prototipo académico; las pruebas de ejecución no equivalen a validación aerodinámica. |
+| [Forex Research Pipeline](https://github.com/cristo2401/forex-research-pipeline) | Experimentos con datos FX: preparación de series, representaciones, RL y evaluación con costos. Incluye resultados negativos y una demo de datos sintéticos. | Investigación en curso; alcance y validaciones pendientes documentados. |
+| [LBM / Aerodinámica 2D](https://github.com/cristo2401/LBM_CUDA_Aerodynamics_HPC) | Simulador numérico D2Q9 en C++17 y kernels CUDA. Casos CPU ejecutables y comparación de layouts de memoria. | Prototipo académico con pruebas CPU y visualización reproducible. |
 | [XAI / Exoplanetas](https://github.com/cristo2401/xai-exoplanet-lightcurve-classification) | Proyecto académico de clasificación de curvas de luz Kepler/TESS, auditoría de datos, incertidumbre y explicaciones de modelos. | Modelos, métricas y análisis publicados; objetivos y límites de comparación documentados. |
-
-En los repositorios financieros distingo entre rendimiento computacional, resultados de simulación y evidencia de una estrategia. Un benchmark rápido no demuestra rentabilidad.
 
 ## Trabajo aplicado y formación
 
