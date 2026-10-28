@@ -1,40 +1,32 @@
-# Hola, soy Cristóbal Césped
+# Hola, soy Cristóbal Cesped
 
-Estudiante de último año de **Ingeniería Civil Informática en la Universidad Técnica Federico Santa María (USM)**, con egreso estimado para el primer semestre de 2027.
+Estudio el último año de **Ingeniería Civil Informática en la Universidad Técnica Federico Santa María**. Me interesa construir software para investigar con datos: simulación, series temporales, machine learning y cómputo con GPU.
 
-A través de proyectos académicos y personales estoy explorando problemas donde convergen la **modelación matemática, el machine learning y la computación de alto rendimiento**. Estoy construyendo experiencia en series temporales financieras, simulación numérica y software acelerado con CUDA, con especial atención a la reproducibilidad, la eficiencia y la validación rigurosa.
+Busco **práctica profesional Quant o Developer desde diciembre de 2026**, presencial en Santiago. Disponibilidad inicial de **3 meses, con posibilidad de extensión**. Egreso estimado: primer semestre de 2027.
 
-También participo en la **Selección de Programación Competitiva USM Valparaíso**, donde desarrollo algoritmos, estructuras de datos y resolución de problemas bajo restricciones.
+[CV](https://drive.google.com/file/d/14NCx8vHY1v-Np9Ka-MbHrnANhF6Ldh-h/view) · [LinkedIn](https://www.linkedin.com/in/cristobal-cesped/) · [cristobal.cespedg@usm.cl](mailto:cristobal.cespedg@usm.cl)
 
 ## Proyectos seleccionados
 
-- **[Forex Research Pipeline](https://github.com/cristo2401/forex-research-pipeline)** — Pipeline experimental multi-divisa con particiones temporales estrictas, representación de regímenes, offline reinforcement learning, CTDE, evaluación bajo costos, controles de riesgo y paper trading. El repositorio publica tanto avances como resultados que no superan los guardrails.
+| Proyecto | Qué construí y qué puedes revisar | Estado |
+|---|---|---|
+| [forex-cuda](https://github.com/cristo2401/forex_cuda) | Entorno de simulación de portafolios FX en Python, C++ y CUDA. Código del kernel, pruebas matemáticas y benchmarks con metodología y límites. | Prototipo de investigación con pruebas y mediciones publicadas. |
+| [Forex Research Pipeline](https://github.com/cristo2401/forex-research-pipeline) | Experimentos con datos FX: preparación de series, representaciones, RL y evaluación con costos. Incluye resultados negativos y una demo de datos sintéticos. | En desarrollo; la integración completa sigue pendiente de validación y los guardrails recientes fallan. |
+| [LBM / Aerodinámica 2D](https://github.com/cristo2401/LBM_CUDA_Aerodynamics_HPC) | Simulador numérico D2Q9 en C++17 y kernels CUDA. Casos CPU ejecutables y comparación de layouts de memoria. | Prototipo académico; las pruebas de ejecución no equivalen a validación aerodinámica. |
+| [XAI / Exoplanetas](https://github.com/cristo2401/xai-exoplanet-lightcurve-classification) | Proyecto académico de clasificación de curvas de luz Kepler/TESS, auditoría de datos, incertidumbre y explicaciones de modelos. | Modelos, métricas y análisis publicados; objetivos y límites de comparación documentados. |
 
-- **[forex-cuda](https://github.com/cristo2401/forex_cuda)** — Entorno vectorizado para simulación de portafolios FX desarrollado con Python, C++ y CUDA, integrado con PyTorch mediante una API estilo Gymnasium. Incluye costos, margen, margin calls, datos H1 reales y benchmarks CPU/GPU.
+En los repositorios financieros distingo entre rendimiento computacional, resultados de simulación y evidencia de una estrategia. Un benchmark rápido no demuestra rentabilidad.
 
-- **[LBM CUDA Aerodynamics HPC](https://github.com/cristo2401/LBM_CUDA_Aerodynamics_HPC)** — Simulador LBM D2Q9 en C++17 y CUDA para estudiar flujo alrededor de perfiles y vehículos, con implementaciones CPU/GPU, distintas estrategias de memoria y medición de fuerzas aerodinámicas.
+## Trabajo aplicado y formación
 
-- **[Explainable AI for Exoplanet Classification](https://github.com/cristo2401/xai-exoplanet-lightcurve-classification)** — Pipeline reproducible de deep learning para clasificar curvas de luz de Kepler y TESS, con auditoría de datos, incertidumbre, calibración y métodos XAI como Integrated Gradients, Grad-CAM y Occlusion Sensitivity.
+**Puerto San Antonio — proyecto universitario en desarrollo.** Trabajo en simulación de tráfico con Python y SUMO: preparación de datos, generación de demanda, calibración mediante optimización y comparación de alternativas de control semafórico. También desarrollo herramientas web para configurar simulaciones, visualizar ejecuciones y revisar resultados. Los datos operativos, el código interno y los resultados confidenciales no se publican aquí.
 
-## Áreas que estoy explorando
-
-- Métodos cuantitativos y machine learning para series temporales
-- Optimización, simulación y diseño experimental
-- C++/CUDA y computación de alto rendimiento
-- Interpretabilidad, incertidumbre y evaluación robusta de modelos
-- Álgebra lineal, algoritmos y sistemas complejos
+Soy integrante de la **Selección de Programación Competitiva USM Valparaíso**, donde entreno algoritmos, estructuras de datos y resolución de problemas.
 
 ## Herramientas
 
-**Lenguajes:** Python, C++17, CUDA C, SQL  
-**Machine learning:** PyTorch, TensorFlow, scikit-learn, XGBoost  
-**Computación científica:** NumPy, pandas, Jupyter, simulación numérica  
-**Entorno:** Linux, Git, CMake, APIs REST
+- **Programación:** Python, C++, CUDA y SQL.
+- **Datos y modelos:** NumPy, pandas, PyTorch y scikit-learn.
+- **Desarrollo y simulación:** Linux, Git, CMake y SUMO.
 
-## Contacto
-
-- **Correo:** [cristobal.cespedg@usm.cl](mailto:cristobal.cespedg@usm.cl)
-- **GitHub:** [@cristo2401](https://github.com/cristo2401)
-- **LinkedIn:** [linkedin.com/in/cristobal-cesped](https://www.linkedin.com/in/cristobal-cesped)
-
-Abierto a conversar sobre investigación aplicada, machine learning, simulación y software científico.
+También mantengo [apuntes de PyTorch](https://github.com/cristo2401/d2l-pytorch-apuntes) y un [proyecto académico anterior de validación walk-forward](https://github.com/cristo2401/HyperFusion-WF), con sus limitaciones documentadas.
